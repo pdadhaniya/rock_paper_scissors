@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'rock_pape_scis/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "Rock Paper Scissors"
+  spec.name          = "rock_pape_scis"
   spec.version       = RockPapeScis::VERSION
   spec.authors       = 'Parag Dadhaniya'
   spec.email         = 'paragdadhaniya@gmail.com'
