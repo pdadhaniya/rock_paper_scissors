@@ -1,6 +1,6 @@
 # RockPapeScis
 
-TODO: Write a gem description
+This gem is a simple rock paper scissors gem which returns the name of the winner based on the move made by two players.
 
 ## Installation
 
